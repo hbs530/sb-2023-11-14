@@ -1,4 +1,4 @@
-package com.example.sb20231114;
+package com.ll.sb20231114;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
